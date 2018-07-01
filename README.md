@@ -2,5 +2,5 @@
 
 # Pixel Art Maker Project
 
-## Link to my final project at Udacity and ALCwithGoogle Scholarship: 
+### Link to my final project at Udacity and ALCwithGoogle Scholarship: https://aleemcode.github.io/PixelArtMaker/
 
